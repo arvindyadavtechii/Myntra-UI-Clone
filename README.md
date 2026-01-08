@@ -1,2 +1,6 @@
 # Myntra-UI-Clone
-myntra-ui-clone-eight.vercel.app
+---
+
+## 🔥 Live Preview
+
+https://myntra-ui-clone-eight.vercel.app
